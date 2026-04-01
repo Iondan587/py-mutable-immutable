@@ -16,4 +16,8 @@ marks = {
 }
 collection_of_coins = {1, 2, 25}
 
-# write your code here
+sorted_variables = {
+    "mutable": [list_of_students, student_info, collection_of_coins],
+    "immutable": [academy_name, number_of_students, average_mark, is_active, main_course]
+}
+
